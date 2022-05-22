@@ -1,1 +1,1 @@
-echo "This is from github updated  v1"
+echo "This is from github for scm demo"
